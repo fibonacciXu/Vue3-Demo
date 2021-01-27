@@ -9,7 +9,7 @@
 export default {
   setup() {
     const testFunction = () => {
-      console.log("滚!!!");
+      console.log("test es6语法");
     };
     return {
       testFunction,
